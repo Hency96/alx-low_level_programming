@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  *  main - A program that prints outs a set of strings
- * return: 1
+ * Return: 1
  */
 int main(void)
 {
