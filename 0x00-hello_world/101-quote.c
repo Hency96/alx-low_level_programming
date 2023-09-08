@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *  main -a program that prints outs a set of strings
+ *  main - A program that prints outs a set of strings
  * return: 1
  */
 int main(void)
