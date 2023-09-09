@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - A program that Prints numbers between 0 to 9 and letters between a to f
- *
+ * main - program that Prints numbers between 0 to 9 and  between a to f
  * Return: 0
  */
 int main(void)
