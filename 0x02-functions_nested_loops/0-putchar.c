@@ -3,9 +3,9 @@
  * main - A program that prints a string (_putchar)
  * Return 0;
  */
-main void()
+main(void)
 {
-	_putchar("_putchar");
-return 0;
+	_putchar("_putchar \n");
+return (0);
 }
 
