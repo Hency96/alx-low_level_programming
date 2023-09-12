@@ -1,5 +1,4 @@
-i#include "main.h"
-
+#include "main.h"
 /**
  * Main - print all alphabet in lowercase
  * Return 0;
