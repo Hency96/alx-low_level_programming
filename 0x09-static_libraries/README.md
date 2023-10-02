@@ -1,1 +1,1 @@
-understanding static library
+using and understanding static library
